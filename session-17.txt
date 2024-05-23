@@ -85,8 +85,8 @@ ami-03265a0778a880afb
 1. create one user and gave admin access
 2. create access keys
 
-AKIAUSW45M2WHLZYIMFP
-fOOpKufyvMMf7ZlyqnmnwGvg1kC+eUB9GRBCYTav
+#AKIAUSW45M2WHLZYIMFP
+f#OOpKufyvMMf7ZlyqnmnwGvg1kC+eUB9GRBCYTav
 
 created role
 attached permissions
